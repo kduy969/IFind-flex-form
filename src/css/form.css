@@ -1,0 +1,14 @@
+/*
+.input-valid-text{
+    background-color: #00bf8f;
+}
+
+.input-invalid-text{
+    color: crimson;
+    background-color: palevioletred;
+}*/
+.my-card-shadow {
+    -webkit-box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.08) !important;
+    -moz-box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.08) !important;
+    box-shadow: 0 0.2rem 0.5rem rgba(0, 0, 0, 0.08) !important;
+}
